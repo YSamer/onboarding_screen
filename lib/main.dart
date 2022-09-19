@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:onboarding_screen/components/colors.dart';
 import 'package:onboarding_screen/screens/onboarding_screen/onboarding_screen.dart';
 
 void main() {
